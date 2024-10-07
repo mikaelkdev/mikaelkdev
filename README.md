@@ -2,7 +2,7 @@
 
 **🇫🇮 Web Developer | Fullstack Developer | MSc in Computer Science**
 
-[Portfolio](https://mikaelkdev.github.io) • [Email](mailto:mikael.koskinen@example.com)
+[Portfolio](https://mikaelkdev.github.io/mikaelkdev) • [Email](mailto:mikael.koskinen@example.com)
 
 ---
 
